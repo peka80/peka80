@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petar @peka80
 - I’m QA Engineer
-- 📫 How to reach me on my Telegram: https://t.me/peka80
+- 📫 You can reach me on my Telegram: https://t.me/peka80
 <!-- 💞️ I’m looking to collaborate on -->
 
 <!---
