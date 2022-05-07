@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Petar @peka80
-- 👀 I’m interested in web developing, QA Engineering
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- I’m QA Engineeri
 - 📫 How to reach me on my Telegram: https://t.me/peka80
 <!-- 💞️ I’m looking to collaborate on -->
 
