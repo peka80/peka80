@@ -2,14 +2,22 @@
 - I’m QA Engineer
 
 *Technologies and abilities*
-**Backend testing
+
+**Backend testing** 
+
   - API testing - Postman
+ 
 **Frontend testing**
+
   - Functional (E2E) testing - Cypress framework
+
 **Testing types**
+
   - Manual testing - Functional, Regression, Integration, etc.
   - Test automation - E2E testing, Regression testing
- **Other**
+
+**Other**
+
   - Experienced in Agile and Scrum environments
 
 
