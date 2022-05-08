@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Petar @peka80
-- I’m QA Engineer
+👋 Hi, I’m Petar @peka80
 
-*Technologies and abilities*
+*QA Engineer*
 
 **Backend testing** 
 
@@ -21,7 +20,8 @@
   - Experienced in Agile and Scrum environments
 
 
-- 📫 You can reach me on my Telegram: https://t.me/peka80
+
+📫 You can reach me on my Telegram: https://t.me/peka80 or 📧 *petar.dragovic@gmail.com*
 <!-- 💞️ I’m looking to collaborate on -->
 
 <!---
