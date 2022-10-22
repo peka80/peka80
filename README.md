@@ -1,6 +1,6 @@
 👋 Hi, I’m Petar @peka80
 
-*QA Engineer*
+*Software Testing Engineer*
 
 **Backend testing** 
 
