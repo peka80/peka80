@@ -11,7 +11,7 @@ I’m a passionate **Software Testing Engineer** with experience in both backend
 - **API Testing**: Proficient in testing APIs using tools such as Postman.
 
 ### **Frontend Testing**  
-- **Functional (E2E) Testing**: Skilled in writing and executing automated tests using **Cypress** framework.
+- **Functional (E2E) Testing**: Skilled in writing and executing automated tests using **Playwright** framework.
 
 ### **Testing Types**  
 - **Manual Testing**: Functional, Regression, Integration, and other testing methodologies.
@@ -25,7 +25,7 @@ I’m a passionate **Software Testing Engineer** with experience in both backend
 ## 💻 Current Focus
 
 - I’m currently working daily with the **Playwright framework** in **TypeScript**, creating robust and scalable automated tests.  
-- I also have hands-on experience with **Cypress** and **WebdriverIO**.  
+- I also have hands-on experience with **Cypress** and **WebdriveIO**.  
 - My programming knowledge includes **JavaScript** and an eagerness to further grow my skill set.
 
 ---
